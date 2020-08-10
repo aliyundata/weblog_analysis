@@ -1,0 +1,703 @@
+2020-08-09 22:14:28,229 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.task.profile.params
+2020-08-09 22:14:28,229 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.handler.count
+2020-08-09 22:14:28,229 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.image.transfer.bandwidthPerSec
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.expire.trackers.interval
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.client.max-retries
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.handler-thread-count
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.server.listen.queue.size
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.threads.max
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.connect.max-wait.ms
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.max.split.locations
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.scheduler.class
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.blocksize
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.shuffle.connection-keep-alive.enable
+2020-08-09 22:14:28,230 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.threads.keepalivetime
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ha.failover-controller.cli-check.rpc-timeout.ms
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ha.zookeeper.acl
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.write.stale.datanode.ratio
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.encrypt.data.transfer
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.shared.file.descriptor.paths
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.input.lineinputformat.linespermap
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.localizer.fetch.thread-count
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.scheduler.address
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.leveldb-timeline-store.start-time-write-cache-size
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.read.shortcircuit.skip.checksum
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.shuffle.ssl.enabled
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.log.level
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.registry.rm.enabled
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.quota.init-threads
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.system-metrics-publisher.dispatcher.pool-size
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.use.datanode.hostname
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.ha.enabled
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapred.reducer.new-api
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.balancer.address
+2020-08-09 22:14:28,231 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.lock.detailed-metrics.enabled
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.reformat.disabled
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.multipart.threshold
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.cross-origin.enabled
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.shuffle.memory.limit.percent
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.https.server.keystore.resource
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.taskscheduler
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.kerberos.internal.spnego.principal
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.state-store.max-completed-applications
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.dns.interface
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for map.sort.class
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.buffer.dir
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.shuffle.retry-delay.max.ms
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.client.progressmonitor.pollinterval
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.shuffle.log.limit.kb
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.max.locked.memory
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.retrycache.expirytime.millis
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.scan.period.hours
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.block.write.replace-datanode-on-failure.best-effort
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.move.interval-ms
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.ha.fencing.ssh.connect-timeout
+2020-08-09 22:14:28,232 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.log-aggregation.roll-monitoring-interval-seconds
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.fs-limits.max-component-length
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.state-store-class
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.ipc.address
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.block.write.replace-datanode-on-failure.policy
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.path.based.cache.retry.interval.ms
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.crypto.cipher.suite
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.ha.tail-edits.period
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.generic-application-history.max-applications
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.registry.jaas.context
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.hostname
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.group.mapping.ldap.search.filter.group
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.group.mapping.ldap.search.filter.user
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.edits.dir
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.client.failover-retries-on-socket-timeouts
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.decommission.max.concurrent.tracked.nodes
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.server.log.slow.rpc
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.recovery.store.leveldb.path
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.store.class
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.windows-container.cpu-limit.enabled
+2020-08-09 22:14:28,233 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.vmem-pmem-ratio
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.checkpoint.period
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.ha.automatic-failover.enabled
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.scheduler.monitor.policies
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.leveldb-state-store.compaction-interval-secs
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.containerlauncher.threadpool-initial-size
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapred.child.java.opts
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.retiredjobs.cache.size
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.https.need-auth
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.write-lock-reporting-threshold-ms
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.ftp.host.port
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.avoid.read.stale.datanode
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.end-notification.retry.attempts
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.leveldb-timeline-store.ttl-interval-ms
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.ipc.rpc.class
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.cluster.acls.enabled
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.ubertask.maxmaps
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.container-manager.thread-count
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.app-submission.cross-platform
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.reducer.preempt.delay.sec
+2020-08-09 22:14:28,234 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for s3native.bytes-per-checksum
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.path.based.cache.block.map.allocation.percent
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.markreset.buffer.percent
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.cache.revocation.polling.ms
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.lazypersist.file.scrub.interval.sec
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.recovery.store.fs.uri
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.registry.zk.retry.interval.ms
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.keytab
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for nfs.dump.dir
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.user.name
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.maxtasks.perjob
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.delete.debug-delay-sec
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.ttl-enable
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.fs.state-store.retry-policy-spec
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.skip.maxgroups
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.trash.interval
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.heartbeats.in.second
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.persist.jobstatus.active
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.done-dir
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.instrumentation.requires.admin
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for nfs.rtmax
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.container.liveness-monitor.interval-ms
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.backup.address
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.readahead.bytes
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.cleaner.enable
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.block.write.retries
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.http.address
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ha.failover-controller.graceful-fence.connection.retries
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.safemode.threshold-pct
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.java.secure.random.algorithm
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.dns.nameserver
+2020-08-09 22:14:28,235 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.cluster.temp.dir
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.client.submit.file.replication
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.fail-fast
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.edits.journal-plugin.qjournal
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.write.exclude.nodes.cache.expiry.interval.millis
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.mmap.cache.timeout.ms
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.skip.checksum.errors
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.hostname
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.acl.enable
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.fast.upload
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for file.blocksize
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.rpc.socket.factory.class.default
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.common.configuration.version
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.client.thread-count
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.drop.cache.behind.reads
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.output.value.class
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.output.fileoutputformat.outputdir
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.linux-container-executor.nonsecure-mode.user-pattern
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.zk-timeout-ms
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.max-completed-applications
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.cleaner.period-mins
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.tasktracker.maxblacklists
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.end-notification.max.retry.interval
+2020-08-09 22:14:28,236 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.acl-view-job
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.job.task.listener.thread-count
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.resource.cpu-vcores
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.edit.log.autoroll.check.interval.ms
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.group.mapping.ldap.search.attr.member
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.ssl.client.conf
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.root-dir
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.journalnode.https-address
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.shuffle.fetch.retry.timeout-ms
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.bytes-per-checksum
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.max.objects
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.instrumentation
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.max.transfer.threads
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.block.access.key.update.interval
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.jobhistory.task.numberprogresssplits
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.output.key.class
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.memory.mb
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.directoryscan.throttle.limit.ms.per.sec
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.hdfs-blocks-metadata.enabled
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.healthchecker.interval
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.image.transfer.chunksize
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.taskmemorymanager.monitoringinterval
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.https.keystore.resource
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.connect.retry-interval.ms
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.webapp.address
+2020-08-09 22:14:28,237 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.scheduler.minimum-allocation-mb
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.cleaner.resource-sleep-ms
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for net.topology.impl
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.seqfile.compress.blocksize
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.AbstractFileSystem.ftp.impl
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.checkpoint.edits.dir
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.running.reduce.limit
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.heartbeat.recheck-interval
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.safemode.extension
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.reduce.shuffle.consumer.plugin.class
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.vmem-check-enabled
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.persist.jobstatus.dir
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.delegation.key.update-interval
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.rpc.protection
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.permissions.umask-mode
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.staticuser.user
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.connection.maximum
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.paging.maximum
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.authentication.kerberos.keytab
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.dns.nameserver
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.block.write.replace-datanode-on-failure.enable
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.use.legacy.blockreader.local
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.checkpoint.dir
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.top.windows.minutes
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.maxtaskfailures.per.tracker
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for net.topology.node.switch.mapping.impl
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.shuffle.max.connections
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.client.application-client-protocol.poll-interval-ms
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.localizer.address
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.list.cache.pools.num.responses
+2020-08-09 22:14:28,238 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for nfs.server.port
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ha.zookeeper.parent-znode
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.admin.thread-count
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.resource.cpu-vcores
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.http.policy
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.attempts.maximum
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.log-aggregation.retain-check-interval-seconds
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3n.multipart.copy.block.size
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.zk-acl
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.ssl.keystores.factory.class
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.split.metainfo.maxsize
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3.maxRetries
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.random.device.file.path
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.client.nodemanager-connect.max-wait-ms
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.client-am.ipc.max-retries
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.linux-container-executor.cgroups.strict-resource-usage
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.replication.max
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.https.address
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.client.kill.max
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.committer.setup.cleanup.needed
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.domain.socket.data.traffic
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.localizer.cache.target-size-mb
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.admin.client.thread-count
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobtracker.restart.recover
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.store-class
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.tmp.dir
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.ttl-ms
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.speculative
+2020-08-09 22:14:28,239 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.recovery.enabled
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.recovery.dir
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.counters.max
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.max.extra.edits.segments.retained
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.webhdfs.user.provider.user.pattern
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.mmap.enabled
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.log.level
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.file-block-storage-locations.timeout.millis
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.scheduler.heartbeat.interval-ms
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.fuse.timer.period
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.local.dir.minspacestart
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ha.health-monitor.check-interval.ms
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.docker-container-executor.exec-name
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.fs.state-store.retry-interval-ms
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.output.fileoutputformat.compress
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.native.lib.available
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.store.in-memory.staleness-period-mins
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.input.fileinputformat.inputdir
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.AbstractFileSystem.har.impl
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.running.map.limit
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.input.buffer.percent
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.webapp.address
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.multipart.size
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.slow.io.warning.threshold.ms
+2020-08-09 22:14:28,240 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.job.committer.commit-window
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.submithostname
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.ifile.readahead
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for s3native.replication
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for s3.stream-buffer-size
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.fsdatasetcache.max.threads.per.volume
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.output.fileoutputformat.compress.codec
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.store.in-memory.initial-delay-mins
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.webapp.address
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.task.userlog.limit.kb
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.connection.ssl.enabled
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.webapp.address
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.fuse.connection.timeout
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.input.fileinputformat.numinputfiles
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.server.max.connections
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.resource.mb
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.groups.cache.secs
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.container-monitor.interval-ms
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for s3.client-write-packet-size
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.replication
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.shuffle.transfer.buffer.size
+2020-08-09 22:14:28,241 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.group.mapping.ldap.directory.search.timeout
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.available-space-volume-choosing-policy.balanced-space-threshold
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.work.around.non.threadsafe.getpwuid
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.client-am.ipc.max-retries-on-timeouts
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.taskcontroller
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.indexcache.mb
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.scheduler.maximum-allocation-vcores
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.sleep-delay-before-sigkill.ms
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.acl-modify-job
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.automatic.close
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.input.fileinputformat.list-status.num-threads
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.acls.enabled
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.short.circuit.replica.stale.threshold.ms
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3.block.size
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.resource.du.reserved
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.shuffle.listen.queue.size
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.intermediate-done-dir
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.edits.noeditlogchannelflush
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.recovery.compaction-interval-secs
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.shuffle.input.buffer.percent
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.maxattempts
+2020-08-09 22:14:28,242 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.http.policy
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.audit.loggers
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.groups.cache.warn.after.ms
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.serializations
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.cross-origin.allowed-methods
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.http.policy
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.file-block-storage-locations.num-threads
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.cluster.local.dir
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.secondary.https-address
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.kerberos.kinit.command
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.block.access.token.lifetime
+2020-08-09 22:14:28,243 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.delegation.token.max-lifetime
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.drop.cache.behind.writes
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.local.clientfactory.class.name
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.num.extra.edits.retained
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.client.connect.max.retries.on.timeouts
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3n.block.size
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.map.output.collector.class
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ha.health-monitor.connect-retry-interval.ms
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.map.tasks.maximum
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.datanode-restart.timeout
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.mapfile.bloom.size
+2020-08-09 22:14:28,244 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.kms.client.authentication.retry-count
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client-write-packet-size
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.swift.impl
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.shuffle.log.backups
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ftp.blocksize
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.kerberos.principal.pattern
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.scheduler.monitor.enable
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for nfs.allow.insecure.ports
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.nm.uploader.thread-count
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.client.job.retry-interval
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.authorization
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.am.liveness-monitor.expiry-interval-ms
+2020-08-09 22:14:28,245 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.har.impl.disable.cache
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.leveldb-timeline-store.path
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.reduce.slowstart.completedmaps
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.minicluster.fixed.ports
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.ha.automatic-failover.enabled
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.userlog.retain.hours
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.accesstime.precision
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.output.value.class
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.mapfile.bloom.error.rate
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.store.class
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.leveldb-state-store.path
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.support.allow.format
+2020-08-09 22:14:28,246 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.container-executor.class
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.top.enabled
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.shuffle.log.separate
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.kms.client.encrypted.key.cache.low-watermark
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.fast.buffer.size
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.user.group.static.mapping.overrides
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.cached.conn.retry
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.path.based.cache.refresh.interval.ms
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.fs-limits.max-directory-items
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.zk-retry-interval-ms
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.ha.log-roll.period
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.client.fallback-to-simple-auth-allowed
+2020-08-09 22:14:28,247 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.remote-app-log-dir
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.healthchecker.script.timeout
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.resource.percentage-physical-cpu-limit
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.fs-limits.max-xattr-size
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.http.address
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.blocks.per.postponedblocks.rescan
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.jetty.logs.serve.aliases
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.admin.acl
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.reducer.unconditional-preempt.delay.sec
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.app.mapreduce.am.hard-kill-timeout-ms
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.webapp.address
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.recovery.enable
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.store.in-memory.check-period-mins
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.df.interval
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.enabled
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.cross-origin.allowed-headers
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.task.profile
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.hostname
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.token.tracking.ids.enabled
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.mmap.retry.timeout.ms
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.move.thread-count
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.permissions.enabled
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.AbstractFileSystem.hdfs.impl
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.filter.initializers
+2020-08-09 22:14:28,248 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.timeline-service.http-authentication.simple.anonymous.allowed
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.client-server.thread-count
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.resource-tracker.address
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.working.dir
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.decommission.blocks.per.interval
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for rpc.metrics.quantile.enable
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.read-lock-reporting-threshold-ms
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.task.timeout
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.resource.memory-mb
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.disk-health-checker.min-healthy-disks
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.failed.volumes.tolerated
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.fileoutputcommitter.algorithm.version
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.framework.name
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.skip.proc.count.autoincr
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.system-metrics-publisher.enabled
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.nested-level
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3a.connection.timeout
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for file.client-write-packet-size
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for ipc.client.ping
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.delayed.delegation-token.removal-interval-ms
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.failover.max.attempts
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.webapp.cross-origin.enabled
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.read.shortcircuit.streams.cache.expiry.ms
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.balancer.max-no-move-interval
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.health-checker.script.timeout-ms
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.fs.state-store.num-retries
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.ssl.require.client.cert
+2020-08-09 22:14:28,249 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.uid.cache.secs
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.jobhistory.keytab
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.ha.automatic-failover.zk-base-path
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.tasktracker.dns.interface
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.speculative.speculative-cap-running-tasks
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.block.id.layout.upgrade.threads
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.context
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.delegation.token.renew-interval
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.blockreport.intervalMsec
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for io.map.index.skip
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.hdfs-servers
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.map.output.compress
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.kms.client.encrypted.key.cache.num.refill.threads
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.s3n.multipart.uploads.block.size
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.task.merge.progress.records
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.aux-services.mapreduce_shuffle.class
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for tfile.fs.output.buffer.size
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for fs.du.interval
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.client.failover.connection.retries
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.top.window.num.buckets
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.job.dir
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.sharedcache.uploader.server.address
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.registry.zk.quorum
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.cross-origin.allowed-origins
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.enable.retrycache
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.datanode.du.reserved
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.registry.system.acls
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.task.profile.reduce.params
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.reduce.memory.mb
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.http.authentication.kerberos.principal
+2020-08-09 22:14:28,250 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.nodemanager.disk-health-checker.min-free-space-per-disk-mb
+2020-08-09 22:14:28,251 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for hadoop.security.sensitive-config-keys
+2020-08-09 22:14:28,251 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for mapreduce.client.completion.pollinterval
+2020-08-09 22:14:28,251 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.name.dir.restore
+2020-08-09 22:14:28,251 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for dfs.namenode.secondary.http-address
+2020-08-09 22:14:28,251 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for s3.bytes-per-checksum
+2020-08-09 22:14:28,251 DEBUG [org.apache.hadoop.conf.Configuration] - Handling deprecation for yarn.resourcemanager.webapp.https.address
+2020-08-09 22:14:28,420 INFO [org.apache.hadoop.mapreduce.Job] - The url to track the job: http://localhost:8080/
+2020-08-09 22:14:28,422 INFO [org.apache.hadoop.mapreduce.Job] - Running job: job_local272505972_0001
+2020-08-09 22:14:28,424 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:28,424 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:28,429 INFO [org.apache.hadoop.mapred.LocalJobRunner] - OutputCommitter set in config null
+2020-08-09 22:14:28,436 INFO [org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter] - File Output Committer Algorithm version is 1
+2020-08-09 22:14:28,438 INFO [org.apache.hadoop.mapred.LocalJobRunner] - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2020-08-09 22:14:28,593 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - Starting mapper thread pool executor.
+2020-08-09 22:14:28,593 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - Max local threads: 1
+2020-08-09 22:14:28,593 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - Map tasks to process: 1
+2020-08-09 22:14:28,595 INFO [org.apache.hadoop.mapred.LocalJobRunner] - Waiting for map tasks
+2020-08-09 22:14:28,598 INFO [org.apache.hadoop.mapred.LocalJobRunner] - Starting task: attempt_local272505972_0001_m_000000_0
+2020-08-09 22:14:28,612 DEBUG [org.apache.hadoop.mapred.SortedRanges] - currentIndex 0   0:0
+2020-08-09 22:14:28,633 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - mapreduce.cluster.local.dir for child : /tmp/hadoop-HWJ/mapred/local/localRunner//HWJ/jobcache/job_local272505972_0001/attempt_local272505972_0001_m_000000_0
+2020-08-09 22:14:28,638 DEBUG [org.apache.hadoop.mapred.Task] - using new api for output committer
+2020-08-09 22:14:28,640 INFO [org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter] - File Output Committer Algorithm version is 1
+2020-08-09 22:14:28,649 INFO [org.apache.hadoop.yarn.util.ProcfsBasedProcessTree] - ProcfsBasedProcessTree currently is supported only on Linux.
+2020-08-09 22:14:28,739 INFO [org.apache.hadoop.mapred.Task] -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@6aa7567f
+2020-08-09 22:14:28,745 INFO [org.apache.hadoop.mapred.MapTask] - Processing split: file:/E:/Big_Data_Files/oppt/part-r-00000:0+18372
+2020-08-09 22:14:28,762 DEBUG [org.apache.hadoop.mapred.MapTask] - Trying map output collector class: org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+2020-08-09 22:14:28,829 INFO [org.apache.hadoop.mapred.MapTask] - (EQUATOR) 0 kvi 26214396(104857584)
+2020-08-09 22:14:28,829 INFO [org.apache.hadoop.mapred.MapTask] - mapreduce.task.io.sort.mb: 100
+2020-08-09 22:14:28,829 INFO [org.apache.hadoop.mapred.MapTask] - soft limit at 83886080
+2020-08-09 22:14:28,829 INFO [org.apache.hadoop.mapred.MapTask] - bufstart = 0; bufvoid = 104857600
+2020-08-09 22:14:28,829 INFO [org.apache.hadoop.mapred.MapTask] - kvstart = 26214396; length = 6553600
+2020-08-09 22:14:28,832 INFO [org.apache.hadoop.mapred.MapTask] - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+2020-08-09 22:14:28,864 INFO [org.apache.hadoop.mapred.LocalJobRunner] - 
+2020-08-09 22:14:28,864 INFO [org.apache.hadoop.mapred.MapTask] - Starting flush of map output
+2020-08-09 22:14:28,864 INFO [org.apache.hadoop.mapred.MapTask] - Spilling map output
+2020-08-09 22:14:28,864 INFO [org.apache.hadoop.mapred.MapTask] - bufstart = 0; bufend = 21716; bufvoid = 104857600
+2020-08-09 22:14:28,864 INFO [org.apache.hadoop.mapred.MapTask] - kvstart = 26214396(104857584); kvend = 26214096(104856384); length = 301/6553600
+2020-08-09 22:14:28,906 INFO [org.apache.hadoop.mapred.MapTask] - Finished spill 0
+2020-08-09 22:14:28,923 INFO [org.apache.hadoop.mapred.Task] - Task:attempt_local272505972_0001_m_000000_0 is done. And is in the process of committing
+2020-08-09 22:14:28,935 INFO [org.apache.hadoop.mapred.LocalJobRunner] - map
+2020-08-09 22:14:28,935 INFO [org.apache.hadoop.mapred.Task] - Task 'attempt_local272505972_0001_m_000000_0' done.
+2020-08-09 22:14:28,940 INFO [org.apache.hadoop.mapred.Task] - Final Counters for attempt_local272505972_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=18690
+		FILE: Number of bytes written=308110
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=76
+		Map output records=76
+		Map output bytes=21716
+		Map output materialized bytes=21986
+		Input split bytes=106
+		Combine input records=0
+		Spilled Records=76
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=232259584
+	File Input Format Counters 
+		Bytes Read=18528
+2020-08-09 22:14:28,940 INFO [org.apache.hadoop.mapred.LocalJobRunner] - Finishing task: attempt_local272505972_0001_m_000000_0
+2020-08-09 22:14:28,941 INFO [org.apache.hadoop.mapred.LocalJobRunner] - map task executor complete.
+2020-08-09 22:14:28,943 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - Starting reduce thread pool executor.
+2020-08-09 22:14:28,944 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - Max local threads: 1
+2020-08-09 22:14:28,944 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - Reduce tasks to process: 1
+2020-08-09 22:14:28,944 INFO [org.apache.hadoop.mapred.LocalJobRunner] - Waiting for reduce tasks
+2020-08-09 22:14:28,944 INFO [org.apache.hadoop.mapred.LocalJobRunner] - Starting task: attempt_local272505972_0001_r_000000_0
+2020-08-09 22:14:28,947 DEBUG [org.apache.hadoop.mapred.SortedRanges] - currentIndex 0   0:0
+2020-08-09 22:14:28,950 DEBUG [org.apache.hadoop.mapred.LocalJobRunner] - mapreduce.cluster.local.dir for child : /tmp/hadoop-HWJ/mapred/local/localRunner//HWJ/jobcache/job_local272505972_0001/attempt_local272505972_0001_r_000000_0
+2020-08-09 22:14:28,952 DEBUG [org.apache.hadoop.mapred.Task] - using new api for output committer
+2020-08-09 22:14:28,952 INFO [org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter] - File Output Committer Algorithm version is 1
+2020-08-09 22:14:28,952 INFO [org.apache.hadoop.yarn.util.ProcfsBasedProcessTree] - ProcfsBasedProcessTree currently is supported only on Linux.
+2020-08-09 22:14:29,018 INFO [org.apache.hadoop.mapred.Task] -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@6abb763e
+2020-08-09 22:14:29,022 INFO [org.apache.hadoop.mapred.ReduceTask] - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@2e08e6e1
+2020-08-09 22:14:29,035 INFO [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - MergerManager: memoryLimit=1315333760, maxSingleShuffleLimit=328833440, mergeThreshold=868120320, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+2020-08-09 22:14:29,038 INFO [org.apache.hadoop.mapreduce.task.reduce.EventFetcher] - attempt_local272505972_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+2020-08-09 22:14:29,041 DEBUG [org.apache.hadoop.mapreduce.task.reduce.EventFetcher] - Got 0 map completion events from 0
+2020-08-09 22:14:29,041 DEBUG [org.apache.hadoop.mapreduce.task.reduce.EventFetcher] - GetMapEventsThread about to sleep for 1000
+2020-08-09 22:14:29,045 DEBUG [org.apache.hadoop.mapreduce.task.reduce.LocalFetcher] - LocalFetcher 1 going to fetch: attempt_local272505972_0001_m_000000_0
+2020-08-09 22:14:29,076 DEBUG [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - attempt_local272505972_0001_m_000000_0: Proceeding with shuffle since usedMemory (0) is lesser than memoryLimit (1315333760).CommitMemory is (0)
+2020-08-09 22:14:29,079 INFO [org.apache.hadoop.mapreduce.task.reduce.LocalFetcher] - localfetcher#1 about to shuffle output of map attempt_local272505972_0001_m_000000_0 decomp: 21982 len: 21986 to MEMORY
+2020-08-09 22:14:29,083 INFO [org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput] - Read 21982 bytes from map-output for attempt_local272505972_0001_m_000000_0
+2020-08-09 22:14:29,085 INFO [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - closeInMemoryFile -> map-output of size: 21982, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->21982
+2020-08-09 22:14:29,086 DEBUG [org.apache.hadoop.mapreduce.task.reduce.ShuffleSchedulerImpl] - map attempt_local272505972_0001_m_000000_0 done 1 / 1 copied.
+2020-08-09 22:14:29,086 INFO [org.apache.hadoop.mapreduce.task.reduce.EventFetcher] - EventFetcher is interrupted.. Returning
+2020-08-09 22:14:29,087 INFO [org.apache.hadoop.mapred.LocalJobRunner] - 1 / 1 copied.
+2020-08-09 22:14:29,087 INFO [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+2020-08-09 22:14:29,100 INFO [org.apache.hadoop.mapred.Merger] - Merging 1 sorted segments
+2020-08-09 22:14:29,100 INFO [org.apache.hadoop.mapred.Merger] - Down to the last merge-pass, with 1 segments left of total size: 21942 bytes
+2020-08-09 22:14:29,104 INFO [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - Merged 1 segments, 21982 bytes to disk to satisfy reduce memory limit
+2020-08-09 22:14:29,105 DEBUG [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - Disk file: /tmp/hadoop-HWJ/mapred/local/localRunner/HWJ/jobcache/job_local272505972_0001/attempt_local272505972_0001_r_000000_0/output/map_0.out.merged Length is 21986
+2020-08-09 22:14:29,106 INFO [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - Merging 1 files, 21986 bytes from disk
+2020-08-09 22:14:29,107 INFO [org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl] - Merging 0 segments, 0 bytes from memory into reduce
+2020-08-09 22:14:29,107 INFO [org.apache.hadoop.mapred.Merger] - Merging 1 sorted segments
+2020-08-09 22:14:29,108 INFO [org.apache.hadoop.mapred.Merger] - Down to the last merge-pass, with 1 segments left of total size: 21942 bytes
+2020-08-09 22:14:29,108 INFO [org.apache.hadoop.mapred.LocalJobRunner] - 1 / 1 copied.
+2020-08-09 22:14:29,172 INFO [org.apache.hadoop.conf.Configuration.deprecation] - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+2020-08-09 22:14:29,202 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@3c9c943f, PageViewsBean@d218b1)
+2020-08-09 22:14:29,208 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@65496bea, PageViewsBean@d218b1)
+2020-08-09 22:14:29,210 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@3ea240bf, PageViewsBean@d218b1)
+2020-08-09 22:14:29,210 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@2e0b74b5, PageViewsBean@d218b1)
+2020-08-09 22:14:29,211 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@36d986bf, PageViewsBean@d218b1)
+2020-08-09 22:14:29,211 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@418696e9, PageViewsBean@d218b1)
+2020-08-09 22:14:29,212 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6d0d81de, PageViewsBean@d218b1)
+2020-08-09 22:14:29,212 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@18d6fe16, PageViewsBean@d218b1)
+2020-08-09 22:14:29,212 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@62c06fcd, PageViewsBean@d218b1)
+2020-08-09 22:14:29,213 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@17849ca2, PageViewsBean@d218b1)
+2020-08-09 22:14:29,213 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1686fcfd, PageViewsBean@d218b1)
+2020-08-09 22:14:29,214 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@390f8675, PageViewsBean@d218b1)
+2020-08-09 22:14:29,215 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@5850389e, PageViewsBean@d218b1)
+2020-08-09 22:14:29,215 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6b82ceba, PageViewsBean@d218b1)
+2020-08-09 22:14:29,216 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@4a42b623, PageViewsBean@d218b1)
+2020-08-09 22:14:29,216 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@f3bbd30, PageViewsBean@d218b1)
+2020-08-09 22:14:29,222 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6fb377b1, PageViewsBean@d218b1)
+2020-08-09 22:14:29,225 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@2ce298d7, PageViewsBean@d218b1)
+2020-08-09 22:14:29,225 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@76a29633, PageViewsBean@d218b1)
+2020-08-09 22:14:29,225 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@738a2f74, PageViewsBean@d218b1)
+2020-08-09 22:14:29,226 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@7f0c04b, PageViewsBean@d218b1)
+2020-08-09 22:14:29,226 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@3fecd442, PageViewsBean@d218b1)
+2020-08-09 22:14:29,227 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@5d9dde82, PageViewsBean@d218b1)
+2020-08-09 22:14:29,227 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@7fcebbca, PageViewsBean@d218b1)
+2020-08-09 22:14:29,228 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@7e3ddee0, PageViewsBean@d218b1)
+2020-08-09 22:14:29,228 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@27aa5ba1, PageViewsBean@d218b1)
+2020-08-09 22:14:29,228 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@14f0e818, PageViewsBean@d218b1)
+2020-08-09 22:14:29,229 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1eea01a7, PageViewsBean@d218b1)
+2020-08-09 22:14:29,229 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@eb00644, PageViewsBean@d218b1)
+2020-08-09 22:14:29,230 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@7b322360, PageViewsBean@d218b1)
+2020-08-09 22:14:29,230 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6891a436, PageViewsBean@d218b1)
+2020-08-09 22:14:29,231 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@26b867ba, PageViewsBean@d218b1)
+2020-08-09 22:14:29,231 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@28b4c70f, PageViewsBean@d218b1)
+2020-08-09 22:14:29,231 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@42f7d85a, PageViewsBean@d218b1)
+2020-08-09 22:14:29,232 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@27226426, PageViewsBean@d218b1)
+2020-08-09 22:14:29,232 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@424242cf, PageViewsBean@d218b1)
+2020-08-09 22:14:29,232 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@4cc07937, PageViewsBean@d218b1)
+2020-08-09 22:14:29,233 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@30894dfd, PageViewsBean@d218b1)
+2020-08-09 22:14:29,233 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@43e1c9e, PageViewsBean@d218b1)
+2020-08-09 22:14:29,242 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@543a62ec, PageViewsBean@d218b1)
+2020-08-09 22:14:29,246 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1b7cb09d, PageViewsBean@d218b1)
+2020-08-09 22:14:29,246 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@61e0e0aa, PageViewsBean@d218b1)
+2020-08-09 22:14:29,247 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@154ecae4, PageViewsBean@d218b1)
+2020-08-09 22:14:29,247 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1264f7a3, PageViewsBean@d218b1)
+2020-08-09 22:14:29,248 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6ce2452a, PageViewsBean@d218b1)
+2020-08-09 22:14:29,248 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@ae10dac, PageViewsBean@d218b1)
+2020-08-09 22:14:29,249 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@691bfffe, PageViewsBean@d218b1)
+2020-08-09 22:14:29,249 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@5c77d491, PageViewsBean@d218b1)
+2020-08-09 22:14:29,250 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@22420120, PageViewsBean@d218b1)
+2020-08-09 22:14:29,250 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@20ccf4a9, PageViewsBean@d218b1)
+2020-08-09 22:14:29,251 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@161e0b41, PageViewsBean@d218b1)
+2020-08-09 22:14:29,251 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@742f964f, PageViewsBean@d218b1)
+2020-08-09 22:14:29,251 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@46d6d2eb, PageViewsBean@d218b1)
+2020-08-09 22:14:29,252 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1781f24, PageViewsBean@d218b1)
+2020-08-09 22:14:29,252 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@675a5849, PageViewsBean@d218b1)
+2020-08-09 22:14:29,252 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6fcf2703, PageViewsBean@d218b1)
+2020-08-09 22:14:29,253 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1ffee19b, PageViewsBean@d218b1)
+2020-08-09 22:14:29,253 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@5ebe5c7f, PageViewsBean@d218b1)
+2020-08-09 22:14:29,253 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6b93cff1, PageViewsBean@d218b1)
+2020-08-09 22:14:29,254 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@7d720abf, PageViewsBean@d218b1)
+2020-08-09 22:14:29,255 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@1568ceb3, PageViewsBean@d218b1)
+2020-08-09 22:14:29,256 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@391925c5, PageViewsBean@d218b1)
+2020-08-09 22:14:29,256 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@4c009950, PageViewsBean@d218b1)
+2020-08-09 22:14:29,257 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@21ca459d, PageViewsBean@d218b1)
+2020-08-09 22:14:29,257 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@72041a41, PageViewsBean@d218b1)
+2020-08-09 22:14:29,257 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@2432ec9, PageViewsBean@d218b1)
+2020-08-09 22:14:29,257 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@4ac1fdc8, PageViewsBean@d218b1)
+2020-08-09 22:14:29,262 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@39d4bfa0, PageViewsBean@d218b1)
+2020-08-09 22:14:29,262 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@6b506cc9, PageViewsBean@d218b1)
+2020-08-09 22:14:29,263 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@707e220c, PageViewsBean@d218b1)
+2020-08-09 22:14:29,263 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@3514ae76, PageViewsBean@d218b1)
+2020-08-09 22:14:29,263 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@29212ecb, PageViewsBean@d218b1)
+2020-08-09 22:14:29,263 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@417f2902, PageViewsBean@d218b1)
+2020-08-09 22:14:29,264 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@40101d63, PageViewsBean@d218b1)
+2020-08-09 22:14:29,264 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@50677c09, PageViewsBean@d218b1)
+2020-08-09 22:14:29,266 DEBUG [org.apache.commons.beanutils.BeanUtils] - BeanUtils.copyProperties(PageViewsBean@709047b8, PageViewsBean@d218b1)
+2020-08-09 22:14:29,289 INFO [org.apache.hadoop.mapred.Task] - Task:attempt_local272505972_0001_r_000000_0 is done. And is in the process of committing
+2020-08-09 22:14:29,293 INFO [org.apache.hadoop.mapred.LocalJobRunner] - 1 / 1 copied.
+2020-08-09 22:14:29,293 INFO [org.apache.hadoop.mapred.Task] - Task attempt_local272505972_0001_r_000000_0 is allowed to commit now
+2020-08-09 22:14:29,311 INFO [org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter] - Saved output of task 'attempt_local272505972_0001_r_000000_0' to file:/E:/Big_Data_Files/opppt/_temporary/0/task_local272505972_0001_r_000000
+2020-08-09 22:14:29,311 INFO [org.apache.hadoop.mapred.LocalJobRunner] - reduce > reduce
+2020-08-09 22:14:29,312 INFO [org.apache.hadoop.mapred.Task] - Task 'attempt_local272505972_0001_r_000000_0' done.
+2020-08-09 22:14:29,312 INFO [org.apache.hadoop.mapred.Task] - Final Counters for attempt_local272505972_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=62694
+		FILE: Number of bytes written=340549
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=57
+		Reduce shuffle bytes=21986
+		Reduce input records=76
+		Reduce output records=57
+		Spilled Records=76
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=232259584
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=10453
+2020-08-09 22:14:29,312 INFO [org.apache.hadoop.mapred.LocalJobRunner] - Finishing task: attempt_local272505972_0001_r_000000_0
+2020-08-09 22:14:29,313 INFO [org.apache.hadoop.mapred.LocalJobRunner] - reduce task executor complete.
+2020-08-09 22:14:29,331 DEBUG [org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter] - Merging data from DeprecatedRawLocalFileStatus{path=file:/E:/Big_Data_Files/opppt/_temporary/0/task_local272505972_0001_r_000000; isDirectory=true; modification_time=1596982470000; access_time=0; owner=; group=; permission=rwxrwxrwx; isSymlink=false} to file:/E:/Big_Data_Files/opppt
+2020-08-09 22:14:29,338 DEBUG [org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter] - Merging data from DeprecatedRawLocalFileStatus{path=file:/E:/Big_Data_Files/opppt/_temporary/0/task_local272505972_0001_r_000000/part-r-00000; isDirectory=false; length=10361; replication=1; blocksize=33554432; modification_time=1596982470000; access_time=0; owner=; group=; permission=rw-rw-rw-; isSymlink=false} to file:/E:/Big_Data_Files/opppt/part-r-00000
+2020-08-09 22:14:29,425 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:29,425 INFO [org.apache.hadoop.mapreduce.Job] - Job job_local272505972_0001 running in uber mode : false
+2020-08-09 22:14:29,433 INFO [org.apache.hadoop.mapreduce.Job] -  map 100% reduce 100%
+2020-08-09 22:14:29,436 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:670)
+2020-08-09 22:14:29,437 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:29,446 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:29,544 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.fs.FileContext.getAbstractFileSystem(FileContext.java:331)
+2020-08-09 22:14:30,447 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:670)
+2020-08-09 22:14:30,447 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:30,447 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:30,447 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getTaskCompletionEvents(Job.java:670)
+2020-08-09 22:14:30,447 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:30,447 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)
+2020-08-09 22:14:30,447 INFO [org.apache.hadoop.mapreduce.Job] - Job job_local272505972_0001 completed successfully
+2020-08-09 22:14:30,448 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.getCounters(Job.java:758)
+2020-08-09 22:14:30,459 INFO [org.apache.hadoop.mapreduce.Job] - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=81384
+		FILE: Number of bytes written=648659
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=76
+		Map output records=76
+		Map output bytes=21716
+		Map output materialized bytes=21986
+		Input split bytes=106
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=57
+		Reduce shuffle bytes=21986
+		Reduce input records=76
+		Reduce output records=57
+		Spilled Records=152
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=464519168
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=18528
+	File Output Format Counters 
+		Bytes Written=10453
+2020-08-09 22:14:30,459 DEBUG [org.apache.hadoop.security.UserGroupInformation] - PrivilegedAction as:HWJ (auth:SIMPLE) from:org.apache.hadoop.mapreduce.Job.updateStatus(Job.java:320)

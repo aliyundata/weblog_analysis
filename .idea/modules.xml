@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pageviews/pageviews.iml" filepath="$PROJECT_DIR$/pageviews/pageviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/preprocess/preprocess.iml" filepath="$PROJECT_DIR$/preprocess/preprocess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/program.iml" filepath="$PROJECT_DIR$/program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visits/visits.iml" filepath="$PROJECT_DIR$/visits/visits.iml" />
+    </modules>
+  </component>
+</project>

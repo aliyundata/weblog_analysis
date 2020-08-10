@@ -1,0 +1,4 @@
+# Project exclude paths
+/pageviews/target/
+/preprocess/target/
+/visits/target/
